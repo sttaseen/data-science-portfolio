@@ -62,4 +62,6 @@ jupyter notebook
 	
 	_Tools: Pandas, Numpy, Opencv2 and Tensorflow_
 	
+### Contact Me
 
+If any of the project is interesting or for any reason, you would like to reach out to me, contact me using my email, sttaseen@gmail.com ❤️ඞ
