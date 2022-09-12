@@ -1,7 +1,7 @@
 # Data Science Portfolio
 This repository contains some of my completed data science projects that I find interesting and commented enough to be usable as notes in the future.
 
-_Note: Some data used in this project is fake and created only for practise purposes._
+_Note: Some datasets used in this project are fake and created for practise purposes only._
 
 ## Instructions for Running Python Notebooks Locally
 1. Install dependencies using requirements.txt:
