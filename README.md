@@ -19,6 +19,26 @@ jupyter notebook
 
 ## Contents
 
+- ### Computer Vision: 
+	- [Action Recognition: Isolated Sign Language Recognition (ISLR)](https://github.com/sttaseen/sign-language-summer-research): Training and testing different action recognition models and data augmentation techniques on ISLR datasets.
+	- [Object Detection: Sign Language](https://github.com/sttaseen/object-detector.git): Training a tensorflow object detection model to read sign language and translate to text in real-time.
+	
+	
+	_Tools: PyTorch, MMAction2, Pandas, Numpy, OpenCV2, PIL, Seaborn, Matplotlib, and Tensorflow._
+	
+- ### Data Analysis and Visualisation
+	- __Python__
+		- [Ankara University Turkish Sign Language Dataset (AUTSL)](https://github.com/sttaseen/sign-language-summer-research/blob/main/eda/autsl/EDA.ipynb): Analysis of one of the largest sign language recognition datasets to explore the different strengths and weaknesses of the dataset.
+		- [Word-Level American Sign Language (ASL)](https://github.com/sttaseen/sign-language-summer-research/blob/main/eda/wlasl/EDA.ipynb): Analysis of one of the most popular sign language recognition datasets to compare with the AUTSL dataset.
+		- [Ecommerce Customer Time Spread Analysis](https://github.com/sttaseen/data-science-portfolio/blob/ad669c37a23218d422c88051d4c1087fdc9d794a/Supervised%20Machine%20Learning/Linear%20Regression/Ecommerce%20Company%20-%20Time%20Spent.ipynb): Analysis of time spent by users in-store, on the company's mobile app and on their website to determine needed improvements for the company.
+		- [Ad-Click Based on Personal Info](https://github.com/sttaseen/data-science-portfolio/blob/ad669c37a23218d422c88051d4c1087fdc9d794a/Supervised%20Machine%20Learning/Logistic%20Regression/Ecommerce%20Logistic%20Regression.ipynb): Analysis of the likelihood of an ad being clicked based on the features of the ad and the personal info of the user.
+
+		
+	_Tools: Pandas, Seaborn, and Matplotlib_
+
+	- __R__ 
+		As a part of part-II software engineering, I have done some data analysis in R [here](https://github.com/sttaseen/R-Exercises). These are uncommented and not pleasing to the eye. I will format these in the future to be readable.
+		
 - ### Machine Learning
 
 	- [Decision Trees: LendingClub Loan Repayment](https://github.com/sttaseen/data-science-portfolio/blob/ad669c37a23218d422c88051d4c1087fdc9d794a/Supervised%20Machine%20Learning/Decision%20Tree%20and%20Random%20Forests/Decision%20Trees%20and%20Random%20Forest%20-%20LendingClub.ipynb): A model to predict if a loan will be repaid by a debtor using decision trees on real dataset on lendingclub.com from Kaggle.
@@ -26,7 +46,7 @@ jupyter notebook
 	- [Recommender System: Movie Recommender](https://github.com/sttaseen/data-science-portfolio/blob/ad669c37a23218d422c88051d4c1087fdc9d794a/Supervised%20Machine%20Learning/Recommender%20Systems/Movie%20Recommender%20System.ipynb): A supervised model to recommend movies based on users and their reviews.
 	- [Reinforcement Learning: Frozen Lake Environment](https://github.com/sttaseen/Deep-Q-Learning): Implementing an optimized Q-Learning agent that will navigate a non-deterministic environment with a fairly high success rate by using reinforcement learning.
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pytorch, Pygame_
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pytorch, and Pygame_
 
 - ### Natural Language Processing
 
@@ -37,18 +57,9 @@ jupyter notebook
 	- [DNN Approach: LendingClub Loan Repayment](https://github.com/sttaseen/data-science-portfolio/blob/ad669c37a23218d422c88051d4c1087fdc9d794a/Deep%20Learning/Lending%20Club/Lending%20Club%20-%20DNN%20Approach.ipynb): Trying out a deep learning approach to model if a debtor would or would not repay their debt based on their personal information.
 	- [DNN: King County House Prices](https://github.com/sttaseen/data-science-portfolio/blob/ad669c37a23218d422c88051d4c1087fdc9d794a/Deep%20Learning/Lending%20Club/House%20Prices/King%20County%20House%20Prices.ipynb): Using deep learning to predict house prices in King County based on house features like location, number of bedrooms, space etc.
 
-	_Tools: Pandas, Seaborn, Matplotlib, scikit-learn_
+	_Tools: Pandas, Seaborn, Matplotlib, and scikit-learn_
 
-- ### Data Analysis and Visualisation
-	- __Python__
-		- [Ecommerce Customer Time Spread Analysis](https://github.com/sttaseen/data-science-portfolio/blob/ad669c37a23218d422c88051d4c1087fdc9d794a/Supervised%20Machine%20Learning/Linear%20Regression/Ecommerce%20Company%20-%20Time%20Spent.ipynb): Analysis of time spent by users in-store, on the company's mobile app and on their website to determine needed improvements for the company.
-		- [Ad-Click Based on Personal Info](https://github.com/sttaseen/data-science-portfolio/blob/ad669c37a23218d422c88051d4c1087fdc9d794a/Supervised%20Machine%20Learning/Logistic%20Regression/Ecommerce%20Logistic%20Regression.ipynb): Analysis of the likelihood of an ad being clicked based on the features of the ad and the personal info of the user.
 
-		
-	_Tools: Pandas, Seaborn and Matplotlib_
-
-	- __R__ 
-		As a part of part-II software engineering, I have done some data analysis in R [here](https://github.com/sttaseen/R-Exercises). These are uncommented and not pleasing to the eye. I will format these in the future to be readable.
 
 - ### Micro Projects: 
 	- [Benford's Law: US Elections](https://github.com/sttaseen/data-science-portfolio/blob/ad669c37a23218d422c88051d4c1087fdc9d794a/Other%20Projects/Benfords_Law_-_Elections.html): Graphing different US Presidential elections to see if Benford's Law applies to them. The file needs to be saved and run as HTML in browser.
@@ -57,10 +68,7 @@ jupyter notebook
 	
 	_Tools: Pandas, and scikit-learn_
 	
-- ### Computer Vision: 
-	- [Object Detection: Sign Language](https://github.com/sttaseen/object-detector.git): Training a tensorflow object detection model to read sign language and translate to text in real-time (currently working on it).
-	
-	_Tools: Pandas, Numpy, Opencv2 and Tensorflow_
+
 	
 ### Contact Me
 
