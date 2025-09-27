@@ -20,6 +20,7 @@ jupyter notebook
 ## Contents
 
 - ### Computer Vision: 
+	- [CowBytes Dataset: Counting Cow Bites from Videos](https://github.com/nzprotag/cow-bytes): Publicly available dataset for my final year engineering project for counting cow bites using action models (sponsored by [ProTag](https://www.protag.co.nz/)).
 	- [Action Recognition: Isolated Sign Language Recognition (ISLR)](https://github.com/sttaseen/sign-language-summer-research): Training and testing different action recognition models and data augmentation techniques on ISLR datasets.
 	- [Object Detection: Sign Language](https://github.com/sttaseen/object-detector.git): Training a tensorflow object detection model to read sign language and translate to text in real-time.
 	
